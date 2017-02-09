@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408160272766",
+    "firebase_url": "https://images-and-text.firebaseio.com",
+    "project_id": "images-and-text",
+    "storage_bucket": "images-and-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408160272766:android:c6c16e2c50947956",
+        "android_client_info": {
+          "package_name": "vidur.codeclan.frag_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408160272766-hcrfg0pakee2t5ukpgekhnr3hqjuvute.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-X-NbgTiIL_8A9R5UJlKrBJLX-5DLq-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408160272766-hcrfg0pakee2t5ukpgekhnr3hqjuvute.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
